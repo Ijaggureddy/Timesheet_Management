@@ -16,4 +16,3 @@ The Timesheet Management System addresses the above intentions through a robust 
 3.	Database: Stores user data, timesheet entries, and approval statuses.
 4.	Notification System: Sends automated email alerts on timesheet submission, approval, or rejection.
 5.	Security: Implements JWT tokens for secure access and data protection
-![image](https://github.com/user-attachments/assets/4677d041-3312-440d-8c2b-15784cfb7a43)
