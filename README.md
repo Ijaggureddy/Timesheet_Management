@@ -1,7 +1,7 @@
 # Timesheet_Management
 1.	Introduction
 
-Objective
+Objective:
 The objective of the Timesheet Management System is to provide a comprehensive platform for managing employee work hours, time tracking, and timesheet approvals within an organization. The system supports role-based access for employees, admins, and consultants, leveraging Spring Boot, JWT, and React for seamless user interaction.
 Project Intend
 The primary intention of the Timesheet Management System is to streamline the process of managing employee work hours, tracking time entries, and approving timesheets within an organization. The system is designed to enhance productivity by automating the submission and approval process, thereby reducing manual errors and ensuring data accuracy.
