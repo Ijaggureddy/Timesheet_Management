@@ -39,8 +39,8 @@ public class TimesheetManagementApplication implements CommandLineRunner {
 			LOG.info("Admin not found in system, so adding default admin");
 
 			User user = new User();
-			user.setEmailId("timesheetmanagement15@gmail.com");
-			user.setPassword(passwordEncoder.encode("123456"));
+			user.setEmailId("enter_admin_mailID");
+			user.setPassword(passwordEncoder.encode("enter_your_password"));
 			user.setRole(UserRole.ROLE_ADMIN.value());
 			user.setStatus(ActiveStatus.ACTIVE.value());
 
